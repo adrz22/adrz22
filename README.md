@@ -162,23 +162,23 @@ Design and evaluation of FIR and IIR filters using MATLAB.
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=adrz22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=adrz22&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrz22&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&column=4)
+![](https://github-profile-trophy.vercel.app/?username=adrz22&theme=tokyonight&no-frame=true&column=4)
 
 ---
 
 ## 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=adrz22&theme=tokyo-night)
 
 ---
 

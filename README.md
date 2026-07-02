@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adriana Zambrano</h1>
+<h1 align="center">Hi ✨, I'm Adriana Zambrano</h1>
 
 <h3 align="center">
 Data Science & Artificial Intelligence Student @ Universidad Politécnica de Madrid
@@ -10,9 +10,9 @@ Building intelligent systems for complex decision-making under uncertainty.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I'm currently pursuing a **B.Sc. in Data Science and Artificial Intelligence** at the **Universidad Politécnica de Madrid (UPM)**.
+I'm currently pursuing a **B.Sc. in Data Science and Artificial Intelligence** at **Universidad Politécnica de Madrid (UPM)**.
 
 My interests lie at the intersection of:
 
@@ -25,88 +25,7 @@ My interests lie at the intersection of:
 
 I enjoy designing data-driven solutions that are not only accurate, but also interpretable and useful for solving real-world problems with scientific, social and economic impact.
 
----
 
-## 🔬 Currently Working On
-
-- 📚 Preparing my Bachelor's Thesis
-- 🩺 Exploring AI methods for oncology
-- 📖 Reading research papers on Explainable AI
-- 💻 Expanding my Machine Learning portfolio
-- 🎓 Preparing applications for international Master's programmes
-
----
-
-## ⭐ Featured Projects
-
-### 🧬 Cancer Prediction using XGBoost + SHAP
-
-Explainable machine learning models for cancer prediction using feature attribution methods.
-
-**Tech**
-
-- Python
-- XGBoost
-- SHAP
-- Scikit-Learn
-
----
-
-### 🔒 CAPTCHA Recognition using CNNs
-
-Deep learning pipeline developed in PyTorch for automatic recognition of six-character CAPTCHAs.
-
-**Tech**
-
-- PyTorch
-- CNN
-- OpenCV
-- NumPy
-
----
-
-### 🎮 Reinforcement Learning Ping Pong Agent
-
-Custom Gymnasium environment where an agent learns to play Ping Pong using PPO.
-
-**Tech**
-
-- Python
-- Gymnasium
-- Stable Baselines3
-- Reinforcement Learning
-
----
-
-### 🎭 Bernoulli Matrix Factorization
-
-Recommendation system implemented from scratch and optimized using NumPy.
-
-**Tech**
-
-- Matrix Factorization
-- Recommendation Systems
-- NumPy
-
----
-
-### 🔐 Network Security
-
-Implementations related to:
-
-- RSA
-- TLS
-- Cryptography
-- Malware Analysis
-- Secure Communications
-
----
-
-### 📡 Digital Signal Processing
-
-Design and evaluation of FIR and IIR filters using MATLAB.
-
----
 
 ## 💻 Tech Stack
 
@@ -168,24 +87,12 @@ Design and evaluation of FIR and IIR filters using MATLAB.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrz22&theme=tokyonight&hide_border=true&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=adrz22&theme=tokyonight&no-frame=true&column=4)
-
----
-
-## 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=adrz22&theme=tokyo-night)
 
 ---
 
 ## 🌍 Connect with Me
 
-- 💼 LinkedIn
-- 📧 University Email
+- [![💼LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-zambrano-arg/)
 
 ---
 
